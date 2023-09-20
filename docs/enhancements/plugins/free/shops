@@ -1,0 +1,33 @@
+---
+description: A List of Shop Plugins
+slug: /e/pl/shops
+title: Shop Plugins
+---
+
+# Shop Plugins
+
+Shop plugins allow players to interact and develop a fully functional economy with Item Currency Values and more.
+
+## EconomyShopGUI
+
+EconomyShopGui is a free shop plugin, with a simple configuration and the ability to allow you to display any item from Minecraft. The Item Prices and Values can be edited easily through the .yml file attached with the plugin.
+
+<div>
+<a class="button button--outline button--primary" href="https://www.spigotmc.org/resources/economyshopgui.69927/">Spigot</a> &nbsp;
+</div>
+
+## ZNPCs
+
+ZNPCs is another popular NPC plugin. Although it is better than Citizens from a performance perspective, it is quite janky and unpleasant to setup.
+
+<div>
+<a class="button button--outline button--primary" href="https://www.spigotmc.org/resources/znpcs.80940/">Spigot</a> &nbsp;
+</div>
+
+## ZNPCsPlus
+
+ZNPCsPlus delivers great performance while also being easy to setup & edit. Recommended as long as you don't mind the lack of support in other plugins for it, V2 can be compiled from the Github page.
+
+<div>
+<a class="button button--outline button--primary" href="https://github.com/Pyrbu/ZNPCsPlus/tree/2.X">Guide</a> &nbsp;
+</div>
